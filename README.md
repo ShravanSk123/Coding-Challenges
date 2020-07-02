@@ -3,8 +3,7 @@ Some codes from various challenges
 
 Question 1)
 
+![Screenshot (7)](https://user-images.githubusercontent.com/46959596/86364474-d94be480-bc95-11ea-8459-cedce1f8d1b5.png)
 
+Question 2)
 
-
-
-![Screenshot (2)](https://user-images.githubusercontent.com/46959596/86328717-d1bf1800-bc62-11ea-9a6e-fcd215ffccbf.png)
