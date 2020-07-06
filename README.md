@@ -12,3 +12,9 @@ Question 2)
 Question 3)
 
 ![Screenshot (12)](https://user-images.githubusercontent.com/46959596/86377652-35b70000-bca6-11ea-90b5-b16583fb4d35.png)
+
+Question 4)
+Find the ceiling of square root of the length of given string and print that many strings as shown below.
+Example:
+input: youonlylookonce
+ouput: ynon oloc uyke olo
